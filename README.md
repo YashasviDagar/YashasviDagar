@@ -1,16 +1,81 @@
-## Hi there 👋
+# Hi, I'm Yashasvi Dagar 👋
 
-<!--
-**YashasviDagar/YashasviDagar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Computer Science Student • Full-Stack Developer • 3D Printing Enthusiast • Entrepreneur
 
-Here are some ideas to get you started:
+I'm passionate about building software, creating products, and turning ideas into reality. Whether it's developing web applications, working on real-world projects, or operating 3D printers, I enjoy learning and building things that make an impact.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+* 🎓 Computer Science Student
+* 💻 Full-Stack Web Developer
+* 🖨️ 3D Printing Enthusiast
+* 🏗️ Founder of **iykyk prints**
+* 📚 Continuously learning new technologies
+* 🚀 Passionate about building products from idea to execution
+* 🎯 Interested in Software Engineering, Web Development, and Entrepreneurship
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Programming Languages
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
+
+### 🎨 Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+
+### ⚙️ Backend & Database
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
+
+### 🛠️ Development Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
+
+### 🖨️ 3D Printing & Hardware
+
+![Bambu Lab](https://img.shields.io/badge/Bambu_Lab-000000?style=for-the-badge)
+![Bambu\_A1\_Mini](https://img.shields.io/badge/Bambu_A1_Mini-000000?style=for-the-badge)
+![3D\_Printing](https://img.shields.io/badge/3D_Printing-000000?style=for-the-badge)
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YashasviDagar&show_icons=true&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YashasviDagar&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YashasviDagar&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+## 🌱 Currently Learning
+
+* Advanced React Development
+* Full-Stack Application Architecture
+* Data Structures & Algorithms
+* Software Engineering Best Practices
+* Cloud & Deployment Technologies
+
+---
+
+## 🤝 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yashasvidagar/)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://yashasvi-d-portfolio.vercel.app/)
+
+⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
